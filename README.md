@@ -15,7 +15,7 @@ Interactive dashboard
 Sales trend visualization
 **Key Insights**
 Top-performing product categories identified
-Sales distribution across regions analyzed 
+Sales distribution across regions analyzed.
 Revenue trends visualized.
 Best-selling products highlighthed
 **What I Built**
